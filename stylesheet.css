@@ -5,3 +5,10 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'Akzidenz';
+  src:
+    url('https://dayaraaj.github.io/FontsFree-Net-Akzidenz-Grotesk-Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
